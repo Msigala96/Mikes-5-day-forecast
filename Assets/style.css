@@ -2,6 +2,7 @@
 font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
-header {
-  height: 5rem;
+#header {
+  background-image: -webkit-linear-gradient( rgb(245, 141, 61), blue);
+  
 }
